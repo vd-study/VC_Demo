@@ -28,6 +28,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window?.rootViewController = tabBarController
         window?.makeKeyAndVisible()
         return true
+        
+        //design in here
     }
 
     func applicationWillResignActive(_ application: UIApplication) {
